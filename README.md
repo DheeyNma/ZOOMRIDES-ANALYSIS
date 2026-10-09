@@ -71,3 +71,4 @@ However, before committing to Lagos, I recommend gathering:
 -Clarity on unrecovered null fare values
 
 Revenue leadership does not guarantee the highest margins. Accra’s superior average fare makes it worth monitoring closely once cost data becomes available
+Occurrence of null values in the fare,this needs to be investigated and recorded.
