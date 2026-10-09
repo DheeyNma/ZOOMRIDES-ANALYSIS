@@ -63,7 +63,7 @@ While the data supports Lagos as the top-performing city by revenue and volume, 
 Notably, Accra holds the highest average fare at ₦2,807, which could indicate stronger per-trip profitability if its cost base is lower. A complete cost dataset would allow for a reliable profit-per-trip comparison and a more definitive recommendation.
 
 ## CONCLUSION & RECOMMENDATION
-Lagos is the clear investment priority. It leads all cities with 93 trips and NGN 218,890 in revenue — 38% of total platform revenue — and grew 41% in the second half of the period, signaling strong and rising demand.
+Lagos is the clear investment priority. It leads all cities with 93 trips and NGN 218,890 in revenue, 38% of total platform revenue ,and grew 41% in the second half of the period, signaling strong and rising demand.
 Data quality issues were identified and resolved. Misspelled city names had fragmented trip records across multiple entries, understating each city’s true performance. After cleaning, Accra emerged as the second-highest city with 37 trips and the highest average fare of NGN2,807.
 However, before committing to Lagos, I recommend gathering:
 -Cost data per city to assess actual profitability
